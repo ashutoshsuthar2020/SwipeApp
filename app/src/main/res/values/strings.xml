@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SwipeApp</string>
+    <string name="overlay_permission_denied_toast">Overlay permission denied. Please enable it in
+        settings.</string>
+    <string name="accessibility_permission_required_toast">Accessibility service permission is
+        required to enable swipe automation.</string>
+    <string name="accessibility_service_label">Swipe Automation Service</string>
+</resources>
